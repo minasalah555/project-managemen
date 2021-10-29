@@ -1,0 +1,5 @@
+﻿  problam 13.cpp
+c:\users\user\source\repos\problam 13\problam 13\problam 13.cpp(8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\problam 13\problam 13\problam 13.cpp(11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\problam 13\problam 13\problam 13.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  problam 13.vcxproj -> C:\Users\user\source\repos\problam 13\Debug\problam 13.exe
